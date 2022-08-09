@@ -1,0 +1,109 @@
+.productCard:hover{
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,0.3);
+}
+@media screen and (min-width:1200px){
+    productCol{
+        width: 18% ;
+    }
+}
+.write{margin-left: 750px;
+    display: flex;
+}
+.headClass{
+    display: flex;
+}
+.features{
+    margin-top: 7px;
+}
+.features a{
+    text-decoration: none;
+}
+
+.ppp{font-family: sans-serif;
+    font-size: 70px;
+    letter-spacing: 2px ;
+    text-align: center;
+    margin-top: 70px;
+}
+.sum{
+    display: flex;
+}
+.section3{
+    margin-left: 230px;
+}
+.sum{
+   margin-left: 60px;
+}
+.sum2{margin-left: 5px;
+    font-size:  34px;
+}
+.sum1{
+    margin-top: 10px;
+}
+.words p{font-size: 14px;
+    margin-bottom: 0;
+}
+
+
+.last1 .btn p{margin-bottom: 0;
+
+}
+.last1{
+    margin-left: 235px;
+}
+.last1 .btn{background-color: #1b2c7a;
+    margin-top: 50px;
+}
+.date{
+margin-top: 5px;
+}
+.last2{
+ margin-left: 10px;
+}
+.last2 h5{
+    text-align: start;
+}
+.last3 h5{
+    text-align: start;
+}
+.last4 h5{
+    text-align: start;
+}
+.last2 p{
+    text-align: start;
+    font-family: sans-serif;
+    font-size: 14px;
+
+}
+.last2 a{
+    color: #777474;
+    text-decoration: none;
+}
+.last3 p{
+    text-align: start;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.last3 a{
+    text-decoration: none;
+    color: #777474;
+}
+.last4 p{
+    font-family: sans-serif;
+    text-align: start;
+    font-size: 14px;
+}
+.last4 a{
+    margin: 0;
+    text-decoration: none;
+    color: #777474;
+}
+.last1 p{font-family: sans-serif;
+    font-size: 14px;
+}
+.col-9{margin-top: -70px;
+    margin-left: 340px;
+}
+.date p{margin-left: -18px;
+    font-size: 12px;
+}
